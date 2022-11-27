@@ -17,4 +17,5 @@ All the repositories here were created by the members below.
 
 -------------
 Please do not remove any of our former members from the People tab! 
+
 They always have access to their code for free, and they have rights.
