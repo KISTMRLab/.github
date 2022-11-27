@@ -28,16 +28,31 @@ In particular, we are currently conducting the following research:
 ## Advisor: Jae-In Hwang
 
 
-All the repositories here were created by the members below.
+All the repositories were created by our members.
 
 ## Research Assistant 
-* Hanseob Kim 
-* Jieun Kim
-* Bin Han
+<a href="https://github.com/khseob0715" class="" data-hovercard-type="user" data-hovercard-url="/users/khseob0715/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/22340876?s=64&amp;v=4" alt="@khseob0715" size="24" height="24" width="24" data-view-component="true" class="avatar circle"> 
+      </a> Hanseob Kim  
+</br>     
+      
+<a href="https://github.com/gdms2" class="" data-hovercard-type="user" data-hovercard-url="/users/gdms2/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/22394339?s=64&amp;v=4" alt="@gdms2" size="24" height="24" width="24" data-view-component="true" class="avatar circle">
+      </a> Jieun Kim 
+</br>     
+
+<a href="https://github.com/hanbin07" class="" data-hovercard-type="user" data-hovercard-url="/users/hanbin07/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/31065548?s=64&amp;v=4" alt="@hanbin07" size="24" height="24" width="24" data-view-component="true" class="avatar circle">
+      </a> Bin Han 
 
 ## Student Researcher
-* Ghazanfar Ali (Ph.D student)
-* Hwangyoun Kim (Ph.D student)
+<a href="https://github.com/ghazanPK" class="" data-hovercard-type="user" data-hovercard-url="/users/ghazanPK/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/38058692?s=64&amp;v=4" alt="@ghazanPK" size="24" height="24" width="24" data-view-component="true" class="avatar circle">
+      </a> Ghazanfar Ali (Ph.D student) 
+</br>     
+<a href="https://github.com/daqjjang" class="" data-hovercard-type="user" data-hovercard-url="/users/daqjjang/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/12400318?s=64&amp;v=4" alt="@daqjjang" size="24" height="24" width="24" data-view-component="true" class="avatar circle">
+      </a> Hwangyoun Kim (Ph.D student) 
 
 
 -------------
