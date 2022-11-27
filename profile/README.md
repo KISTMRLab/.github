@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="github-markdown.css">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KIST%20MRLAB&fontSize=90)
 
@@ -39,35 +39,7 @@ All the repositories here were created by the members below.
 * Ghazanfar Ali (Ph.D student)
 * Hwangyoun Kim (Ph.D student)
 
-<style>
-  .photos {
-    display: inline-block;
-    position: relative;
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-    border-radius: 50%;
-  }
-</style>
 
-<div class="photos">
-<a href="[Github Profile url](https://github.com/khseob0715)"> 
-  <img href="Github profile image source"> 
-</a> 
-<div class="photos">
-<a href="Github Profile url"> 
-  <img href="Github profile image soure"> 
-</a> 
-<div class="photos">
-<a href="Github Profile url"> 
-  <img href="Github profile image source"> 
-</a> 
-<div class="photos">
-<a href="Github Profile url"> 
-  <img href="Github profile image source"> 
-</a> 
-</div>
-  
 -------------
 Please do not remove any of our former members from the People tab! 
 
