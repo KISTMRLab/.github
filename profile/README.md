@@ -30,6 +30,14 @@ In particular, we are currently conducting the following research:
 
 All the repositories were created by our members.
 
+## Post-doc Researcher
+
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/firdauslubis88/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/KISTMRLab/people/firdauslubis88">
+            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/21141335?s=70&amp;v=4" width="24" height="24" alt="@firdauslubis88">
+</a> Muhammad Firdaus Syawaludin Lubis 
+</br>
+Woojoo Kim
+
 ## Research Assistant 
 <a href="https://github.com/khseob0715" class="" data-hovercard-type="user" data-hovercard-url="/users/khseob0715/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
         <img src="https://avatars.githubusercontent.com/u/22340876?s=64&amp;v=4" alt="@khseob0715" size="24" height="24" width="24" data-view-component="true" class="avatar circle"> 
