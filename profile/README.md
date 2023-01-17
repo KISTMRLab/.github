@@ -36,7 +36,6 @@ All the repositories were created by our members.
             <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/21141335?s=70&amp;v=4" width="24" height="24" alt="@firdauslubis88">
 </a> Muhammad Firdaus Syawaludin Lubis 
 </br>
-Woojoo Kim
 
 ## Research Assistant 
 <a href="https://github.com/khseob0715" class="" data-hovercard-type="user" data-hovercard-url="/users/khseob0715/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
