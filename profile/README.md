@@ -2,7 +2,7 @@
 
 **Mixed reality, intelligent virtual agents, and human–computer interaction.**
 
-We are the Mixed Reality Lab (MRLab) in **I²RC** at the **Korea Institute of Science and Technology (KIST)**. We study how people interact with digital humans and immersive systems, combining AI, real-time interaction, and experiments with users.
+We are the Mixed Reality Lab (MRLab) in the **Intelligent Interaction Research Center (I²RC)** at the **Korea Institute of Science and Technology (KIST)**. We study how people interact with digital humans and immersive systems, combining AI, real-time interaction, and experiments with users.
 
 [Lab website](https://sites.google.com/view/mrlabkist) · [Research](https://sites.google.com/view/mrlabkist/research) · [Publications](https://sites.google.com/view/mrlabkist/publications) · [Video demos](https://sites.google.com/view/mrlabkist/video-demo) · [Members](https://sites.google.com/view/mrlabkist/members)
 
